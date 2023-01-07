@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  pomodoro
-//
-//  Created by Jamong on 2023/01/05.
-//
-
 import UIKit
 import AudioToolbox
 
